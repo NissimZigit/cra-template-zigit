@@ -1,3 +1,1 @@
-# cra-template-typescript
-
-Zigit react template
+## Zigit ReactJS Typescript template

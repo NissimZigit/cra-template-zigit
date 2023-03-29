@@ -1,13 +1,13 @@
 {
   "name": "cra-template-zigit",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "keywords": [
     "react",
     "zigit",
     "template",
     "typescript"
   ],
-  "description": "The base TypeScript template for Create React App.",
+  "description": "Zigit ltd. ReactJS Typescript template",
   "repository": {
     "type": "git",
     "url": "https://github.com/NissimZigit/cra-template-zigit"
