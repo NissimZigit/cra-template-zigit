@@ -1,6 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom';
 import { AppLayout } from '../Layout';
-import { IntroPage } from '../Pages';
+import { ExamplePage } from '../Pages';
 
 export const AppRouter = createBrowserRouter([
   {
@@ -8,7 +8,7 @@ export const AppRouter = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <IntroPage />,
+        element: <ExamplePage />,
       },
     ],
   },
